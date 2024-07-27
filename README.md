@@ -15,6 +15,7 @@ The simulator provides additional statistics such as time per query and decoding
 
 The algorithm might be confusing. Please read the paper carefully and if you still do not understand it, feel free to contact me via email address mrowshan at ieee dot org
 
+I will also share the scripts for Segmented ORB-GRAND for PAC codes here soon.
 
 You can find the script for conventional ORBGRAND and the constrained ORBGRAND (all in one file) at https://github.com/mohammad-rowshan/Constrained-Error-Pattern-Generation-for-GRAND which is based on the following paper:
 
