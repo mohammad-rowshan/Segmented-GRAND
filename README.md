@@ -5,7 +5,10 @@ M. Rowshan and J. Yuan, "Low-Complexity GRAND by Segmentation," GLOBECOM 2023 - 
 
 [https://ieeexplore.ieee.org/abstract/document/9328621](https://ieeexplore.ieee.org/abstract/document/10436895/)
 
-The extended version can be found here: [https://ieeexplore.ieee.org/abstract/document/10879547](https://ieeexplore.ieee.org/abstract/document/10879547)
+The extended version can be found here: 
+M. Rowshan and J. Yuan, "Segmented GRAND: Complexity Reduction through Sub-Pattern Combination," in IEEE Transactions on Communications, doi: 10.1109/TCOMM.2025.3541094
+
+[https://ieeexplore.ieee.org/abstract/document/10879547](https://ieeexplore.ieee.org/abstract/document/10879547)
 
 Abstract: The recently introduced maximum-likelihood (ML) decoding scheme called guessing random additive noise decoding (GRAND) has demonstrated a remarkably low time complexity in high signal-to-noise ratio (SNR) regimes. However, the complexity is not as low at low SNR regimes and low code rates. To mitigate this concern, we propose a scheme for a near-ML variant of GRAND called ordered reliability bits GRAND (or ORBGRAND), which divides codewords into segments based on the properties of the underlying code, generates sub-patterns for each segment consistent with the syndrome (thus reducing the number of inconsistent error patterns generated), and combines them in a near-ML order using two-level integer partitions of logistic weight. The numerical evaluation demonstrates that the proposed scheme, called segmented ORBGRAND, reduces the average number of queries (time complexity/latency) to one-third at all SNR regimes. Moreover, the segmented ORBGRAND with abandonment also improves the error correction performance.
 
