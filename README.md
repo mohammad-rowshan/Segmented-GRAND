@@ -6,6 +6,7 @@ M. Rowshan and J. Yuan, "Low-Complexity GRAND by Segmentation," GLOBECOM 2023 - 
 [https://ieeexplore.ieee.org/abstract/document/9328621](https://ieeexplore.ieee.org/abstract/document/10436895/)
 
 The extended version can be found here: 
+
 M. Rowshan and J. Yuan, "Segmented GRAND: Complexity Reduction through Sub-Pattern Combination," in IEEE Transactions on Communications, doi: 10.1109/TCOMM.2025.3541094
 
 [https://ieeexplore.ieee.org/abstract/document/10879547](https://ieeexplore.ieee.org/abstract/document/10879547)
